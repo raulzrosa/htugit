@@ -1,4 +1,5 @@
 compilando em openmp
 gcc -o omp_helloc -fopenmp omp_hello.c
 
-...
+compilar no cluster com n nós ??????
+mpirun --hostfile <arquivo de hosts> -np <n> arquivo
