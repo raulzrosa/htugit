@@ -1,0 +1,14 @@
+tutorialzinho de como usar o github
+https://github.com/fernandomayer/git-rautu/blob/master/0_configuracao-inicial.md
+
+clonar o git hub criado para o pc
+https://github.com/raulzrosa/htugit.git
+
+apagar a pasta do repositorio que copiada no pc
+rm -rf nome_da_pasta
+
+inicializar o repositorio do git
+git init
+
+
+
