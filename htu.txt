@@ -3,7 +3,7 @@ https://github.com/fernandomayer/git-rautu/blob/master/0_configuracao-inicial.md
 https://github.com/fernandomayer/git-rautu/blob/master/0_configuracao-inicial.md
 
 clonar o git hub criado para o pc
-https://github.com/raulzrosa/htugit.git
+git clone https://github.com/raulzrosa/htugit.git
 
 apagar a pasta do repositorio que copiada no pc
 rm -rf nome_da_pasta
@@ -19,6 +19,9 @@ git commit -m "comentário sobre oq foi feito e talz"
 
 para jogar na nuvem
 git push origin master
+
+criar um novo branch 
+git checkout -b novo_branch
 
 APOS ISSO É SUCESSO!!!!!
 
