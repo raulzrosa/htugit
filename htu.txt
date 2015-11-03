@@ -1,4 +1,5 @@
-tutorialzinho de como usar o github
+tutorialzinho de como usar o github e comandos básicos
+https://github.com/fernandomayer/git-rautu/blob/master/0_configuracao-inicial.md
 https://github.com/fernandomayer/git-rautu/blob/master/0_configuracao-inicial.md
 
 clonar o git hub criado para o pc
@@ -10,5 +11,15 @@ rm -rf nome_da_pasta
 inicializar o repositorio do git
 git init
 
+pra adicionar arquivo ao git
+git add nome_arquivo
+
+para dar commit 
+git commit -m "comentário sobre oq foi feito e talz"
+
+para jogar na nuvem
+git push origin master
+
+APOS ISSO É SUCESSO!!!!!
 
 
